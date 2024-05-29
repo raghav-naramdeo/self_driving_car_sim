@@ -12,6 +12,7 @@ credit to original devlopers
 now we will take the data and clean it as per out condictions and them make a model
 
 I have architectured the model over reserch paper 'End to End Learning for Self-Driving Cars' of NVIDIA, few parameters have been tweaked as per my memory capacity
+https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
 
 then we test it in UDACITY SIM
 
